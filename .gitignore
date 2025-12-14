@@ -144,3 +144,7 @@ static_root/
 local_settings.py
 secrets.py
 
+# Docker
+.env.docker
+docker-compose.override.yml
+
